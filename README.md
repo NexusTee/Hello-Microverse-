@@ -3,7 +3,9 @@
 
 > Hello Microverse is an html&css project.
 
-![screenshot](./app_screenshot.png)
+![screenshot]
+screenshot.png
+
 
 
 
